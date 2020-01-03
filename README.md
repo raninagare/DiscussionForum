@@ -6,10 +6,10 @@ New features added to Discussion Forum
 •	Nginx as reverse proxy and load balancer (Deployed on 3 servers)
 •	Flask-BasicAuth - Authentication
 
-##Prerequisites
+## Prerequisites
 Python, Flask, Nginx, SQLite, Flask-BasicAuth should be installed on system.
 
-##Deployment
+## Deployment
 1.	Open the terminals for DiscussionForumAPI and go to directory.
   	cd  DiscussionForumAPI
   
